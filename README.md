@@ -1,4 +1,4 @@
-# OIBSIP3
+# Advanced Password Generator
 
 Advanced Password Generator
 
